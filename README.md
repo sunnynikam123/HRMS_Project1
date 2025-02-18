@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Getting Started with Create React App
 
@@ -69,5 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# HRMS_Project1
+>>>>>>> 41fb2c6b3f931282da53bd94b3ac34193829822d
+=======
 # HRMS_Project1
 >>>>>>> 41fb2c6b3f931282da53bd94b3ac34193829822d
